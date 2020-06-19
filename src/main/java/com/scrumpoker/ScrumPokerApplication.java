@@ -9,5 +9,4 @@ public class ScrumPokerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ScrumPokerApplication.class, args);
 	}
-
 }
